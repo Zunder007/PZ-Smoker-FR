@@ -1,1 +1,62 @@
-Recipes_FR
+/************************SMOKER************************/
+
+Recipes_FR = {
+	Recipe_Open_Pack_Cigarettes = "Ouvrir le paquet de cigarette",
+	Recipe_Take_Cigarette_from_Pack = "Retirer une cigarette du paquet",
+	Recipe_Put_Cigarette_in_Pack = "Mettre la cigarette dans le paquet",
+	Recipe_Put_Cigarette_in_EmptyPack = "Mettre la cigarette dans un paquet vide",
+	Recipe_Pack_in_Carton_Cigarettes = "Faire une cartouche de cigarettes",
+	Recipe_Unpack_Cigarettes = "Retirer les cigarettes du paquet",
+	Recipe_Close_the_full_pack = "Fermer le paquet de cigarettes",
+	Recipe_Open_the_full_pack = "Ouvrir le paquet de cigarettes",
+	Recipe_Dismantle_Cigarette_Butt = "Déchirer le mégot",
+	Recipe_Dismantle_Cigarette = "Déchirer la cigarette",
+	Recipe_Dismantle_Homemade_Cigarette = "Déchirer la cigarette artisanal"
+	Recipe_Make_homemade_filter_cigarette = "Rouler une cigarette avec filtre",
+	Recipe_Make_Homemade_Cigarette_Without_Filter = "Rouler une cigarette sans filtre",
+	Recipe_Make_Tobacco_Pouch = "Faire une blague à tabac",
+	Recipe_Put_Pinch_Tobacco = "Mettre une pincée de tabac dans les blagues à tabac",
+	Recipe_Put_Small_Handful_Tobacco = "Mettre une petite poignée de tabac dans les blagues à tabac",
+	Recipe_Take_Pinch_Tobacco = "Prendre une pincée de tabac",
+	Recipe_Take_Small_Handful_Tobacco = "Prendre une petite poignée de tabac",
+	Recipe_Divide_into_five_pinches = "Diviser en cinq pincées",
+	Recipe_Mix_in_one_handful = "Réunir en une poignée",
+	Recipe_Fill_Smoking_Pipe_with_Tobacco = "Remplir la pipe avec du tabac",
+	Recipe_Put_GreenfireTobacco = "Mettre une petite poignée de tabac dans les blagues à tabac",
+	Recipe_Remove_Filter_from_Cigarette_Butt = "Retirer le filtre d'un mégot de cigarette",
+	Recipe_Crumple_the_Plastic_Bottle = "Écraser la bouteille",
+	Recipe_Make_a_Bottle_Cap = "Faire un bouchon de bouteille",
+	Recipe_Burn_hole_in_plastic_bottle = "Bruler un trou dans la bouteille en plastique",
+	Recipe_Make_a_hole_in_the_bottle = "Faire un trou dans la bouteille écrasée",
+	Recipe_Remove_the_Foil_from_the_Cigarette_Pack = "Retirer le papier aluminium du paquet de cigarette",
+	Recipe_Make_Holes_in_Foil = "Faire des trous dans la feuille d'aluminium",
+	Recipe_Put_pinch_tobacco_in_smoking_device = "Mettre une pincée de tabac dans le bong improvisé",
+	Recipe_Remove_tobacco_from_smoking_device = "Enlever le tabac du bong improvisé",
+	Recipe_Pull_out_the_chewing_gum = "Déballer le chewing-gum",
+	Recipe_Pull_out_blister_pack = "Déballer le paquet scellé",
+	Recipe_Rip_foil_into_strips = "Déchirer le papier d'aluminium en bandes",
+	Recipe_Make_Lighter_out_of_Foil_and_Battery = "Fabriquer un briquet avec du papier d'aluminium et une batterie",
+	
+/************************ Update SMoker mod to v1.77 - 11.03.2023 ************************/	
+	Recipe_Rip_Paper_Sheet = "Déchirer la feuille de papier",
+	Recipe_Put_Cannabis_Snake_in_smoking_device = "Mettre les restes de cannabis dans l'appareil à fumer",
+	Recipe_Remove_Cannabis_Shake_from_smoking_device = "Retirer les restes de cannabis de l'appareil à fumer",
+
+/************************ For Greenfire ************************/
+	Recipe_Dismantle_Spliff = "Déchirer le oinj",
+	Recipe_Roll_Spliff = "Rouler un oinj",
+	Recipe_Load_Bong_with_Smoking_Blend = "Mettre de l'herbe dans le bong",
+	Recipe_Load_Smoking_Pipe_With_Smoking_Blend = "Mettre de l'herbe dans la pipe",
+	Recipe_Unload_Smoking_Blend_from_Smoking_Pipe =  "Retirer l'herbe de la pipe",
+	Recipe_Unload_Smoking_Blend_from_Bong = "Retirer l'herbe du bong",
+	Recipe_Mix_Tobacco_and_Cannabis = "Mélanger le tabac et le cannabis",
+	Recipe_Put_Smoking_Blend_in_smoking_device = "Mettre le mélange dans le bong improvisé",
+	Recipe_Remove_Smoking_Blend_from_smoking_device = "Enlever le mélange du bong improvisé",
+
+/************************ For HydroCraft************************/
+	Recipe_Remove_tobacco_from_pipe = "Enlever le tabac de la pipe",
+
+/************************ For littering ************************/
+	Recipe_Open_Pack_of_Menthol_Cigarettes = "Ouvrir le paquet de cigarettes au Menthol",
+	Recipe_Open_Pack_of_Lite_Cigarettes = "Ouvrir le paquet de cigarettes Légère",
+}
