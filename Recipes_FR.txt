@@ -30,8 +30,8 @@ Recipes_FR = {
 	Recipe_Make_a_hole_in_the_bottle = "Faire un trou dans la bouteille écrasée",
 	Recipe_Remove_the_Foil_from_the_Cigarette_Pack = "Retirer le papier aluminium du paquet de cigarette",
 	Recipe_Make_Holes_in_Foil = "Faire des trous dans la feuille d'aluminium",
-	Recipe_Put_pinch_tobacco_in_smoking_device = "Mettre une pincée de tabac dans le bong improvisé",
-	Recipe_Remove_tobacco_from_smoking_device = "Enlever le tabac du bong improvisé",
+	Recipe_Put_pinch_tobacco_in_smoking_device = "Mettre une pincée de tabac dans le bang improvisé",
+	Recipe_Remove_tobacco_from_smoking_device = "Enlever le tabac du bang improvisé",
 	Recipe_Pull_out_the_chewing_gum = "Déballer le chewing-gum",
 	Recipe_Pull_out_blister_pack = "Déballer le paquet scellé",
 	Recipe_Rip_foil_into_strips = "Déchirer le papier d'aluminium en bandes",
@@ -45,13 +45,13 @@ Recipes_FR = {
 /************************ For Greenfire ************************/
 	Recipe_Dismantle_Spliff = "Déchirer le oinj",
 	Recipe_Roll_Spliff = "Rouler un oinj",
-	Recipe_Load_Bong_with_Smoking_Blend = "Mettre de l'herbe dans le bong",
+	Recipe_Load_Bong_with_Smoking_Blend = "Mettre de l'herbe dans le bang",
 	Recipe_Load_Smoking_Pipe_With_Smoking_Blend = "Mettre de l'herbe dans la pipe",
 	Recipe_Unload_Smoking_Blend_from_Smoking_Pipe =  "Retirer l'herbe de la pipe",
 	Recipe_Unload_Smoking_Blend_from_Bong = "Retirer l'herbe du bong",
 	Recipe_Mix_Tobacco_and_Cannabis = "Mélanger le tabac et le cannabis",
-	Recipe_Put_Smoking_Blend_in_smoking_device = "Mettre le mélange dans le bong improvisé",
-	Recipe_Remove_Smoking_Blend_from_smoking_device = "Enlever le mélange du bong improvisé",
+	Recipe_Put_Smoking_Blend_in_smoking_device = "Mettre le mélange dans le bang improvisé",
+	Recipe_Remove_Smoking_Blend_from_smoking_device = "Enlever le mélange du bang improvisé",
 
 /************************ For HydroCraft************************/
 	Recipe_Remove_tobacco_from_pipe = "Enlever le tabac de la pipe",
@@ -59,4 +59,8 @@ Recipes_FR = {
 /************************ For littering ************************/
 	Recipe_Open_Pack_of_Menthol_Cigarettes = "Ouvrir le paquet de cigarettes au Menthol",
 	Recipe_Open_Pack_of_Lite_Cigarettes = "Ouvrir le paquet de cigarettes Légère",
+
+	Recipe_Light_Gas_Lantern = "Allumer la lanterne à gaz",
+	Recipe_Load_Bong_with_Tobacco = "Remplir le bang avec du tabac",
+	Recipe_Make_Homemade_Cigarette = "Faire une cigarette improvisée",
 }
