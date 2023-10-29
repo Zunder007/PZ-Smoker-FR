@@ -15,4 +15,6 @@ IGUI_ContextMenu_Cant_Action = "Impossible... Déplacer l'objet vers l'inventair
 IGUI_The_foil_burned_out = "La feuille a brûlé...",
 IGUI_MovingCigarettes = "Mettre toutes les cigarettes dans un paquet",
 IGUI_Oh_Hand_Hot = "Ouch! Doigt! Chaud!",
+
+IGUI_CraftCategory_Smoking = "Tabagisme",
 }
