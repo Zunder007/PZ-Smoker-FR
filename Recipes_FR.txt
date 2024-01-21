@@ -63,4 +63,6 @@ Recipes_FR = {
 	Recipe_Light_Gas_Lantern = "Allumer la lanterne à gaz",
 	Recipe_Load_Bong_with_Tobacco = "Remplir le bang avec du tabac",
 	Recipe_Make_Homemade_Cigarette = "Faire une cigarette improvisée",
+
+	Recipe_Light_Torch = "Allumer la torche",
 }
