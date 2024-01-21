@@ -10,9 +10,9 @@ Items_FR = {
 	DisplayName_Carton_Cigarettes = "Cartouche de cigarettes",
 	DisplayName_Closed_full_pack = "Paquet de cigarettes scellé",
 	DisplayName_Butt = "Mégot de cigarette",
-	DisplayName_Homemade_Cigarette = "Cigarette roulée sans filtre",
+	DisplayName_Homemade_Cigarette = "Cigarette roulée",
 	DisplayName_Homemade_Filter_Cigarette = "Cigarette roulée avec filtre",
-	DisplayName_Cigarette_Filter = "Filtre pour roulées",
+	DisplayName_Cigarette_Filter = "Filtre à cigarettes",
 	DisplayName_Tobacco_Pouch = "Blague à tabac",
 	DisplayName_Pinch_of_tobacco = "Une pincée de tabac",
 	DisplayName_Small_Handful_of_Tobacco = "Une petite poignée de tabac",
@@ -37,9 +37,9 @@ Items_FR = {
 	DisplayName_Gold_Cigarette_Carton = "Cartouche de cigarettes Gold",
 	DisplayName_Crumpled_Bottle = "Bouteille en plastique écrasée",
 	DisplayName_Plastic_bottle_with_hole = "Bouteille en plastique écrasée et percée",
-	DisplayName_Cigarette_Foil = "Feuille aluminium d'un paquet de cigarette",
+	DisplayName_Cigarette_Foil = "Feuille de cigarette",
 	DisplayName_Crumpled_Bottle_With_Foil_Cap = "Bouteille écrasée avec un capuchon d'aluminium",
-	DisplayName_Smoking_device_from_plastic_bottle = "Bang improvisé",
+	DisplayName_Smoking_device_from_plastic_bottle = "Bong improvisé à partir d'une bouteille en plastique",
 	DisplayName_Nicotine_Gum = "Chewing-gum à la nicotine",
 	DisplayName_Nicotine_gum_packaging = "Paquet de chewing-gum à la nicotine",
 	DisplayName_Chocolate_Foil = "Papier à chocolat",
@@ -48,12 +48,12 @@ Items_FR = {
 	DisplayName_Lighter_Fluid = "Liquide à briquet",
 
 /************************ Update SMoker mod to v1.77 - 11.03.2023 ************************/
-	DisplayName_Smoking_Device_with_Cannabis_Shake = "Appareil à fumer avec des restes de cannabis",
+	DisplayName_Smoking_Device_with_Cannabis_Shake = "Bong improvisé avec des restes de cannabis",
 	DisplayName_Small_Sheet_of_Paper = "Petite feuille de papier",
 
 /************ For Game with GreenFire ************/
 	DisplayName_Smoking_Blend = "Herbe et tabac",
-	DisplayName_Bong_with_Smoking_Blend = "Bang avec herbe et tabac",
+	DisplayName_Bong_with_Smoking_Blend = "Bong avec herbe et tabac",
 	DisplayName_Smoking_Pipe_filled_with_Smoking_Blend = "Pipe remplie d'herbe et de tabac",
-	DisplayName_Smoking_Device_with_Smoking_Blend = "Bang improvisé avec de l'herbe et du tabac",
+	DisplayName_Smoking_Device_with_Smoking_Blend = "Bong improvisé avec de l'herbe et du tabac",
 }
